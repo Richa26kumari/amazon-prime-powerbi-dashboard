@@ -27,11 +27,6 @@ This project presents an interactive dashboard built using **Power BI** based on
 
 ---
 
-## 📸 Screenshot
-
-![Dashboard Screenshot](C:\Users\erric\OneDrive\Desktop\dashboard.png.jpg)
-
----
 
 ## ⚙️ Tools Used
 
